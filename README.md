@@ -2,10 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)
 ![Comments](https://img.shields.io/badge/comments-~10k-green)
-![Language](https://img.shields.io/badge/language-Algerian%20Arabic-orange)
+![Language](https://img.shields.io/badge/language-Algerian-orange)
 ![Source](https://img.shields.io/badge/source-YouTube-red)
 
-A dataset of **~10,000 Algerian Arabic (Darija) comments** from YouTube, covering music, cooking, traditions, cars, gaming, and comedy/TV. Built to support **NLP research on the Algerian dialect**, which has few available resources.
+A dataset of **~10,000 Algerian  (Darija) comments** from YouTube, covering music, cooking, traditions, cars, gaming, and comedy/TV. Built to support **NLP research on the Algerian dialect**, which has few available resources.
 
 [Stats](#-stats) • [Files](#-files) • [Data Structure](#️-data-structure) • [Limitations](#️-limitations) • [License](#-license)
 
